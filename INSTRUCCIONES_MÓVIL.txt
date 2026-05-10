@@ -1,0 +1,25 @@
+INSTRUCCIONES DESDE EL MÓVIL
+
+1. Sube TODO el contenido de esta carpeta a tu repositorio de GitHub.
+   Importante: sube settings.gradle, build.gradle, la carpeta app y la carpeta .github.
+
+2. En GitHub abre tu repositorio.
+
+3. Entra en la pestaña Actions.
+
+4. Pulsa "Build Android APK".
+
+5. Pulsa "Run workflow".
+
+6. Cuando termine, entra en la ejecución y descarga el archivo:
+   LGRemote-APK
+
+7. Descomprime ese archivo si GitHub lo descarga como ZIP.
+
+8. Instala el APK en tu móvil Android.
+
+9. Abre la app, pulsa Buscar TV, selecciona la LG y pulsa Vincular.
+
+IMPORTANTE:
+La primera vez tendrás que aceptar en la TV. Eso no se puede saltar.
+Después la app guarda la autorización.
